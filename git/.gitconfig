@@ -1,0 +1,7 @@
+[user]
+	email = aleksi.o.kinnunen@gmail.com
+	name = Aleksi Kinnunen
+[core]
+	editor = nano
+[pull]
+	rebase = true
