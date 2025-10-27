@@ -18,6 +18,8 @@ alias gp="git push"
 alias gcob="git checkout -b"
 alias gl="git log"
 
+alias vim='bob run nightly'
+
 # Eza setup 
 alias lsd="eza --icons --group-directories-first --color=always -1"
 alias ll="eza -lah --icons --group-directories-first --color=always"

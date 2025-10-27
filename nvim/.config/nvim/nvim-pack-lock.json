@@ -1,0 +1,92 @@
+{
+  "plugins": {
+    "LuaSnip": {
+      "rev": "ccf25a5",
+      "src": "https://github.com/L3MON4D3/LuaSnip"
+    },
+    "blink.cmp": {
+      "rev": "d93e01a",
+      "src": "https://github.com/Saghen/blink.cmp"
+    },
+    "bufferline.nvim": {
+      "rev": "655133c",
+      "src": "https://github.com/akinsho/bufferline.nvim"
+    },
+    "catppuccin": {
+      "rev": "af58927",
+      "src": "https://github.com/catppuccin/nvim.git"
+    },
+    "conform.nvim": {
+      "rev": "235dd79",
+      "src": "https://github.com/stevearc/conform.nvim"
+    },
+    "gitsigns.nvim": {
+      "rev": "20ad441",
+      "src": "https://github.com/lewis6991/gitsigns.nvim"
+    },
+    "hardtime.nvim": {
+      "rev": "b4e4319",
+      "src": "https://github.com/m4xshen/hardtime.nvim"
+    },
+    "markview.nvim": {
+      "rev": "c93ea99",
+      "src": "https://github.com/OXY2DEV/markview.nvim"
+    },
+    "mason.nvim": {
+      "rev": "ad7146a",
+      "src": "https://github.com/mason-org/mason.nvim.git"
+    },
+    "neogen": {
+      "rev": "05d7540",
+      "src": "https://github.com/Rahlir/neogen"
+    },
+    "nordic.nvim": {
+      "rev": "6afe957",
+      "src": "https://github.com/AlexvZyl/nordic.nvim"
+    },
+    "nvim-autopairs": {
+      "rev": "7a2c97c",
+      "src": "https://github.com/windwp/nvim-autopairs.git"
+    },
+    "nvim-lspconfig": {
+      "rev": "e5c61b0",
+      "src": "https://github.com/neovim/nvim-lspconfig.git"
+    },
+    "nvim-surround": {
+      "rev": "fcfa7e0",
+      "src": "https://github.com/kylechui/nvim-surround"
+    },
+    "nvim-tree.lua": {
+      "rev": "64e2192",
+      "src": "https://github.com/nvim-tree/nvim-tree.lua"
+    },
+    "nvim-treesitter": {
+      "rev": "42fc28ba",
+      "src": "https://github.com/nvim-treesitter/nvim-treesitter"
+    },
+    "nvim-web-devicons": {
+      "rev": "b8221e4",
+      "src": "https://github.com/nvim-tree/nvim-web-devicons"
+    },
+    "oil.nvim": {
+      "rev": "7e1cd77",
+      "src": "https://github.com/stevearc/oil.nvim"
+    },
+    "plenary.nvim": {
+      "rev": "b9fd522",
+      "src": "https://github.com/nvim-lua/plenary.nvim"
+    },
+    "telescope.nvim": {
+      "rev": "b4da76b",
+      "src": "https://github.com/nvim-telescope/telescope.nvim"
+    },
+    "tiny-inline-diagnostic.nvim": {
+      "rev": "94171b1",
+      "src": "https://github.com/rachartier/tiny-inline-diagnostic.nvim"
+    },
+    "typst-preview.nvim": {
+      "rev": "e544812",
+      "src": "https://github.com/chomosuke/typst-preview.nvim"
+    }
+  }
+}
