@@ -27,10 +27,14 @@ alias ll="eza -lah --icons --group-directories-first --color=always"
 # fzf config 
 fzf_configure_bindings --directory=\cT
 
-# Ensure fzf.fish is loaded, then configure bindings
-# if functions -q fzf_configure_bindings
-#     fzf_configure_bindings --directory=\cT
-# end
+# Lazygit 
+alias lg='lazygit'
 
-# status --is-interactive; and pyenv init - | source
+alias srfish='source ~/.config/fish/config.fish'
+alias edfish='vim ~/dotfiles/fish/.config/fish/config.fish'
 
+# alias srvim='source ~/.config/nvim/init.lua'
+alias edvim='vim ~/dotfiles/nvim/.config/nvim/init.lua'
+
+alias srtmux='source ~/.tmux.conf'
+alias edtmux='vim dotfiles/tmux/.tmux.conf'

@@ -10,3 +10,13 @@ autocmd("TextYankPost", {
 	end,
 	group = highlight_group,
 })
+
+local typst_group = augroup("TypstSettings", { clear = true })
+autocmd("FileType", {
+	pattern = "typst",
+	callback = function()
+		vim.opt_local.wrap = true
+		vim.opt_local.textwidth = 80
+	end,
+	group = typst_group,
+})

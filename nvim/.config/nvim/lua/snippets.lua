@@ -7,7 +7,7 @@ ls.config.setup({
 	enable_autosnippets = true,
 })
 
-ls.add_snippets("typ", {
+ls.add_snippets("all", {
 	s({ trig = "mt", snippetType = "autosnippet" }, {
 		t("$"),
 		i(1),
